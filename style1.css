@@ -1,0 +1,169 @@
+.entete
+{
+    position: absolute;
+    width: 92%;
+    height: 65px; 
+    left: 3%;
+    top: 20px;
+   text-align: justify;
+   background-color: #E5E5E5;
+}
+.col{
+    color: #020086;
+    position: absolute;
+width: 332px;
+height: 58px;
+left: 190px;
+top: 27px;
+}
+.b{
+    position: absolute;
+    width: 240px;
+    height: 58px;
+    left: -40px;
+    top: 7px;  
+}
+.v{
+ position: absolute;
+width: 332px;
+height: 58px;
+left: 79px;
+top: 10px;
+}
+.gras{
+    font-family: 'Rakkas';
+font-style: normal;
+font-weight: 50;
+font-size: 20px;
+line-height: 30px;
+}
+
+.axes{
+   position: absolute;
+width: 150px;
+height: 30px;
+left: 1000px;
+top: 25px;
+background: #EFAD10;
+border-radius: 20px;
+text-align: center;
+}
+img{
+ position: absolute;
+width: 25Opx;
+height: 70px;
+left: 500px;
+top: 130px;
+}
+.bamako{
+border: 1px solid #000000;
+position: absolute;
+width: 150px;
+height: 30px;
+left: 580px;
+top: 240px;
+text-align: center;
+color: #EFAD10;
+}
+.bko{
+    position: absolute;
+width: 30px;
+height: 200px;
+left: 30px;
+top: 310px;
+background: #E5E5E5;
+border: 1px solid #000000;
+writing-mode: vertical-lr;
+transform: rotate(540deg);
+text-align: center;
+}
+.destination{
+position: absolute;
+width: 1120px;
+height: 200px;
+left: 80px;
+top: 310px;
+background: #E5E5E5;
+text-align: center;
+}
+.jaune{
+    color: #EFAD10;
+}
+.bleu{
+    color: #020086;
+}
+.go{
+ border: 1px solid #000000;
+position: absolute;
+width: 150px;
+height: 30px;
+left: 590px;
+top:550px;
+text-align: center;
+color: #EFAD10;
+}
+.bk{
+    position: absolute;
+width: 30px;
+height: 200px;
+left: 1200px;
+top: 615px;
+background: #E5E5E5;
+border: 1px solid #000000;
+writing-mode: vertical-lr;
+transform: rotate(00deg);
+text-align: center;
+}
+.allant{
+position: absolute;
+width: 1100px;
+height: 200px;
+left: 79px;
+top: 615px;
+background: #E5E5E5;
+text-align: center;
+}
+.aun{
+    color: #EFAD10;
+}
+.ble{
+    color: #020086;
+}
+.ad{
+border: 1px solid #000000;
+ position: absolute;
+width:200px;
+height: 30px;
+left: 575px;
+top: 843px; 
+text-align: center;
+color: #EFAD10;
+}
+.at{
+position: absolute;
+width: 30px;
+height: 200px;
+left: 23px;
+top: 900px;
+writing-mode: vertical-lr;
+transform: rotate(180deg);
+text-align: center;
+background: #E5E5E5;
+border: 1px solid #000000;
+}
+.autres{
+ position: absolute;
+width: 1088px;
+height: 200px;
+left: 92px;
+top: 900px;
+background: #E5E5E5;
+text-align: center;
+}
+.jo{
+    color: #EFAD10;
+}
+.be{
+    color: #020086;
+}
+
