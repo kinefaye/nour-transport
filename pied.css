@@ -1,0 +1,197 @@
+img{
+    position: relative;
+    width: 70px;
+    height: 50px;
+    left: 2%;
+    top: 20px;
+}
+img{
+   position: relative;
+    width: 70px;
+    height: 50px;
+    left: 2%;
+    top: 20px; 
+}
+img{
+    position: relative;
+    width: 70px;
+    height: 50px;
+    left: 2%;
+    top: 20px;   
+}
+
+.pied{
+ position: absolute;
+width: 1250px;
+height: 350px;
+left: 0px;
+top: 100px;
+background: rgba(2, 0, 134, 0.6);
+}
+.a{
+    position: relative;
+    color: #ffff;
+    left: 10px;
+    top: 1%;
+}
+.im{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    left: 0%;
+    top: 2px;    
+}
+.ima{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    left: 6%;
+    top: -21%;   
+}
+.imag{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    left: 0%;
+    top: -21%;   
+}
+.image{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    left: 6%;
+    top: -41%;    
+}
+.b{
+    position: relative;
+    width: 470px;
+    height: 300px;
+    left: 10px;
+    top: -125px;
+    color: #FFFFFF;  
+}
+.c{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    left: 46%;
+    top: -150%; 
+}
+.titre{
+    position: relative;
+    color: #ffff;
+    left: 550px;
+    top: -150%;  
+}
+.d{
+position: absolute;
+width: 50%;
+height: 103%;
+left: 170px;
+top: 260px;
+
+}
+.da{
+ position: absolute;
+width: 174px;
+height: 203px;
+left: 290px;
+top: 260px;   
+}
+.e{
+    position: absolute;
+    width: 126px;
+    height: 9px;
+    left: 470px;
+    top: 260px;    
+}
+.ea{
+    position: absolute;
+width: 174px;
+height: 203px;
+left: 570px;
+top: 280px;  
+}
+.f{
+    position: absolute;
+    width: 132px;
+    height: 94px;
+    left: 730px;
+    top: 260px;  
+}
+.fa{
+    position: absolute;
+    width: 174px;
+    height: 203px;
+    left: 830px;
+    top: 267px;  
+}
+.h1{
+    
+    position: relative;
+    color: #020086;
+    left: 1050px;
+    top: -200%; 
+
+}
+
+.name{
+    position: absolute;
+    width: 100px;
+    height: 16px;
+    left: 1100px;
+    top: 90px;
+    
+}
+.nom{
+    position: relative;
+    width: 100px;
+    height: 16px;
+    left: 1100px;
+    top: -665px;  
+}
+.imail{
+    position: absolute;
+    top: 160px;
+    left: 1100px;
+    width: 100px;
+    height: 16px;
+}
+.email{
+    position: relative;
+    width: 100px;
+    height: 16px;
+    left: 1100px;
+    top: -613px;    
+}
+.abon{
+position: absolute;
+width: 120px;
+height: 27px;
+left: 1080px;
+top: 250px;
+background: #020086;
+border-radius: 16px;
+}
+.je{
+text-align: center;
+color: #FFFFFF;
+position: absolute;
+top: 25%;
+left: 20%;
+}
+.nour{
+position: absolute;
+width: 1245px;
+height: 100px;
+left: 0px;
+top: 480px;
+background: #EFAD10;
+}
+.yu{
+position: absolute;
+width: 594px;
+height: 44px;
+left: 83px;
+top: 41px;
+}
