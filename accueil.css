@@ -1,0 +1,114 @@
+.vic{
+position: absolute;
+left: 13px;
+top: 1230px;
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 106px;
+}
+.mili{
+position: absolute;
+width: 1255px;
+height: 356px;
+left: 0px;
+top: 1310px;
+background: #020086;
+}
+.tit{
+color: #ffff;
+position: absolute;
+left: 20px;
+top: 48px;
+}
+.n{
+position: absolute;
+width: 256px;
+height: 442px;
+left: 00px;
+top: 108px;
+color: #ffff;
+text-align: center;
+}
+.ti{
+    color: #ffff;
+    position: absolute;
+width: 272px;
+height: 29px;
+left: 304px;
+top: 48px;
+text-align: center;
+}
+.nn{
+ color: #ffff;  
+ position: absolute;
+ width: 256px;
+ height: 445px;
+left: 310px;
+top: 108px;
+text-align: center;
+}
+.til{
+color: #ffff;
+position: absolute;
+width: 359px;
+height: 29px;
+left: 641px;
+top: 48px;
+}
+.nnn{
+color: #ffff;
+position: absolute;
+width: 256px;
+height: 410px;
+left: 623px;
+top: 108px;
+text-align: center;
+}
+.tim{
+color: #ffff;
+position: absolute;
+width: 199px;
+height: 29px;
+left: 1018px;
+top: 48px;
+}
+.nna{
+color: #ffff;
+position: absolute;
+width: 256px;
+height: 469px;
+left: 960px;
+top: 108px;
+text-align: center;
+}
+.max{
+position: absolute;
+width: 1255px;
+height: 349px;
+left: 0px;
+top: 1666px;
+background: #EFAD10;
+}
+.dg{
+position: absolute;
+left: 110px;
+top: 03px;
+}
+.gd{
+    position: absolute;
+width: 926px;
+height: 494px;
+left: 396px;
+top: 55px;
+text-align: center;
+}
+.div{
+position: absolute;
+width: 731px;
+height: 61px;
+left: 643px;
+top: 15px;
+font-style: normal;
+font-size: 20px;
+}
