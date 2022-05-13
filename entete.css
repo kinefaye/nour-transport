@@ -1,0 +1,35 @@
+img{
+    background: rgba(229, 229, 229, 0.5);
+    height: 10%;
+    width: 10%;
+}
+.ac{
+color: #020086;
+position: absolute;
+top: 5%;
+left: 17%;
+}
+.ser{
+position: absolute;
+left: 25%;
+top: 5%;
+color: #020086;
+}
+.axe{
+ position: absolute;
+left: 33%;
+top: 5%;
+color: #020086;
+}
+.con{
+position: absolute;
+left: 40%;
+top: 5%;
+color: #020086;
+}
+.me{
+position: absolute;
+left: 48%;
+top: 5%;
+color: #020086;
+}
