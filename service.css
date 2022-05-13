@@ -1,0 +1,296 @@
+.tit{
+    position: absolute;
+    width: 1245px;
+    height: 102px;
+    left: 15px;
+    top: 15px;
+    background: #000000;
+    border-radius: 9px;   
+}
+.a{
+color: #ffff;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+position: absolute;
+left: 30%;
+top: 20px;
+}
+.i{
+position: absolute;
+left: 21px;
+top: 179px;
+}
+.tex{
+ position: absolute;
+ width: 373px;
+height: 299px;
+left: 38px;
+top: 290px;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+}
+.te{
+position: absolute;
+width: 371px;
+height: 102px;
+left: 640px;
+top: 295px;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+}
+.im{
+    position: absolute;
+    left: 625px;
+    top: 179px; 
+}
+.ima{
+position: absolute;
+width: 371px;
+height: 102px;
+left: 923px;
+top: 179px;
+}
+.tx{
+position: absolute;
+width: 217px;
+height: 253px;
+left: 1015px;
+top: 290px;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+}
+.tet{
+position: absolute;
+width: 940px;
+height: 17px;
+left: 200px;
+top: 650px;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #020086;
+text-align: center;
+}
+.ia{
+ position: absolute;
+width: 1036px;
+height: 697%;
+left: 508px;
+top: 761px;
+}
+.tie{
+position: absolute;
+width: 1224px;
+height: 102px;
+left: 21px;
+top: 955px;
+background: #000000;
+border-radius: 9px;  
+}
+.b{
+color: #ffff;
+position: absolute;
+left: 30%;
+top: 20%;
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 47px;
+}
+.mi{
+position: absolute;
+width: 570px;
+height: 102px;
+left: 402px;
+top: 1080px;
+}
+.c{
+position: absolute;
+width: 917px;
+height: 336px;
+left: 190px;
+top: 1200px;
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+}
+.d{
+ position: absolute;
+width: 905px;
+height: 100px;
+left: -19%;
+top: 270%;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+color: #020086;
+}
+.o{
+position: absolute;
+left: 35px;
+top: 1653px;
+}
+.e{
+position: absolute;
+width: 183px;
+height: 115px;
+left: 150px;
+top: 1750px;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+}
+.lib{
+position: absolute;
+left: 490px;
+top: 1653px;
+}
+.f{
+position: absolute;
+width: 325px;
+height: 115px;
+left: 532px;
+top: 1750px;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+}
+.gaz{
+position: absolute;
+left: 1000px;
+top: 1653px;
+}
+.g{
+ position: absolute;
+width: 188px;
+height: 207px;
+left: 1010px;
+top:1750px;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+}
+.nos{
+position: absolute;
+width: 983px;
+height: 56px;
+left: 337px;
+top: 1920px;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 56px;
+color: #020086;
+}
+.mg{
+position: absolute;
+width: 419px;
+height: 528px;
+left: 45px;
+top: 2048px;
+}
+.mig{
+position: absolute;
+width: 166px;
+height: 114px;
+left: 509px;
+top: 2112px;
+}
+.mag{
+    position: absolute;
+    width: 419px;
+    height: 528px;
+    left: 870px;
+    top: 2048px;
+}
+.nou{
+ position: absolute;
+ width: 1220px;
+ height: 102px;
+left: 21px;
+top: 2502px;
+background: #000000;
+border-radius: 9px;
+}
+.h{
+color: #ffff;
+position: absolute;
+width: 1000px;
+height: 56px;
+left: 21%;
+top: 15%;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 56px;
+}
+.com{
+position: absolute;
+left: 21px;
+top: 2652px;
+}
+.co{
+position: absolute;
+width: 534px;
+height: 196px;
+left: 40px;
+top: 2750px;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+}
+.mr{
+position: absolute;
+width: 570px;
+height: 102px;
+left: 715px;
+top: 2652px;
+}
+.mer{
+ position: absolute;
+width: 569px;
+height: 168px;
+left: 750px;
+top: 2750px;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+}
+.ph{
+    position: absolute;
+    width: 900px;
+    height: 36px;
+    left: 333px;
+    top: 3003px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #020086;
+}
+.the{
+position: absolute;
+left: 390px;
+top: 3100px;
+}
+
+
