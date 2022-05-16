@@ -1,0 +1,63 @@
+
+.ac{
+color: #020086;
+position: absolute;
+top: 2%;
+left: 17%;
+}
+.ser{
+position: absolute;
+left: 25%;
+top: 2%;
+color: #020086;
+}
+.axe{
+ position: absolute;
+left: 33%;
+top: 2%;
+color: #020086;
+}
+.con{
+position: absolute;
+left: 40%;
+top: 2%;
+color: #020086;
+}
+.me{
+position: absolute;
+left: 48%;
+top: 2%;
+color: #020086;
+}
+#text{
+    background: #c4c4c6;
+    height: 40px;
+    width: 800px;
+    padding-top: 1%;
+    padding-left: 10%;
+    left: 20px;
+    font-weight: bold;
+    font-size: 150%;
+    margin-top: 3%;
+    margin-left: 10%;
+ }
+ .image{
+    height: 937px;
+    width: 1000px;
+    left: 21px;
+    border-radius: 0px;
+    margin-left: 20%;
+ }
+.contenu {
+    height: 600px;
+    width: 500px;
+    left: 30px;
+    font-family: Raleway;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 14px;
+    margin-left: 30%;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 10px;
+}
