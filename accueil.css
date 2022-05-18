@@ -1,7 +1,39 @@
+.entete2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10%;
+}
+
+.yave ul{
+    display: flex;
+    justify-content: space-between;
+    color: #020086;
+    margin-left: 10px;
+   
+}
+.yave li{
+    list-style-type: none;
+    padding-right: 20px;
+    padding-left: 20px;
+   
+}
+.xamp img{
+    width: 100%;
+    height: 1100px;
+    
+}
+
 .vic{
 position: absolute;
 left: 13px;
-top: 1230px;
+top: 1225px;
 font-style: normal;
 font-weight: 800;
 font-size: 40px;
@@ -90,9 +122,10 @@ left: 0px;
 top: 1666px;
 background: #EFAD10;
 }
-.dg{
-position: absolute;
-left: 110px;
+.dg img{
+width: 500px;
+height: 300px;
+left: 1000px;
 top: 03px;
 }
 .gd{
@@ -112,3 +145,223 @@ top: 15px;
 font-style: normal;
 font-size: 20px;
 }
+.face img{
+    position: relative;
+    width: 70px;
+    height: 50px;
+    left: 2%;
+    top: 770px; 
+}
+.twi img{
+   position: relative;
+    width: 70px;
+    height: 50px;
+    left: -700%;
+    top: 770px; 
+}
+.pls img{
+    position: relative;
+    width: 70px;
+    height: 50px;
+    left: -1400%;
+    top: 770px;   
+}
+
+.pied{
+ position: absolute;
+width: 1250px;
+height: 350px;
+left: 0px;
+top: 2075px;
+background: rgba(2, 0, 134, 0.6);
+}
+.a{
+    position: relative;
+    color: #ffff;
+    left: 10px;
+    top: 1%;
+}
+.im img{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    left: 0%;
+    top: 2px;    
+}
+.ima img{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    left: -1570%;
+    top: 2%;   
+}
+.imag img{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    left: 0%;
+    top: -71%;   
+}
+.image img{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    left: -1570%;
+    top: -71%;    
+}
+.b{
+    position: relative;
+    width: 470px;
+    height: 300px;
+    left: 10px;
+    top: -95px;
+    color: #FFFFFF;  
+}
+.c{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    left: 42%;
+    top: -142%; 
+}
+.titre{
+    position: relative;
+    color: #ffff;
+    left: 550px;
+    top: -140%;  
+}
+.d img{
+position: absolute;
+width: 10%;
+height: 30%;
+left: 130px;
+top: 240px;
+
+}
+.da{
+ position: absolute;
+width: 100px;
+height: 203px;
+left: 280px;
+top: 220px;   
+}
+.e img{
+    position: absolute;
+    width: 10%;
+    height: 30%;
+    left: 425px;
+    top: 240px;    
+}
+.ea{
+    position: absolute;
+width: 174px;
+height: 203px;
+left: 570px;
+top: 260px;  
+}
+.fff img{
+    position: absolute;
+    width: 132px;
+    height: 104px;
+    left: 720px;
+    top: 240px;  
+}
+.fa{
+    position: absolute;
+    width: 174px;
+    height: 203px;
+    left: 870px;
+    top: 267px;  
+}
+.h1{
+    
+    position: relative;
+    color: #020086;
+    left: 1050px;
+    top: -193%; 
+
+}
+
+.name{
+    position: absolute;
+    width: 100px;
+    height: 16px;
+    left: 1100px;
+    top: 90px;
+    
+}
+.nom{
+    position: relative;
+    width: 100px;
+    height: 16px;
+    left: 1100px;
+    top: -630px;  
+}
+.imail{
+    position: absolute;
+    top: 160px;
+    left: 1100px;
+    width: 100px;
+    height: 16px;
+}
+.email{
+    position: relative;
+    width: 100px;
+    height: 16px;
+    left: 1100px;
+    top: -575px;    
+}
+.abon{
+position: absolute;
+width: 120px;
+height: 27px;
+left: 1080px;
+top: 250px;
+background: #020086;
+border-radius: 16px;
+}
+.je{
+text-align: center;
+color: #FFFFFF;
+position: absolute;
+top: 25%;
+left: 20%;
+}
+.nour{
+position: absolute;
+width: 1245px;
+height: 100px;
+left: 0px;
+top: 2450px;
+background: #EFAD10;
+}
+.yu{
+position: absolute;
+width: 594px;
+height: 44px;
+left: 83px;
+top: 41px;
+}
+.moh{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.fatou{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.sidi{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
