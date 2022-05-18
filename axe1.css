@@ -1,0 +1,450 @@
+.entete4 img{
+    display: flex;
+    justify-content: space-between;
+    top: 10px;
+    left: 2%;  
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10%;
+}
+
+.yave ul{
+    display: flex;
+    justify-content: space-between;
+    color: #020086;
+    margin-left: 650px;
+   
+}
+.yave li{
+    list-style-type: none;
+    padding-right: 20px;
+    padding-left: 20px;
+   
+}
+.enete
+{
+    position: absolute;
+    width: 92%;
+    height: 65px; 
+    left: 3%;
+    top: 100px;
+   text-align: justify;
+   background-color: #E5E5E5;
+}
+
+
+.col{
+    color: #020086;
+    position: absolute;
+width: 332px;
+height: 58px;
+left: 190px;
+top: 27px;
+}
+.b{
+    position: absolute;
+    width: 240px;
+    height: 58px;
+    left: -40px;
+    top: 7px;  
+}
+.v{
+ position: absolute;
+width: 332px;
+height: 58px;
+left: 79px;
+top: 10px;
+}
+.gras{
+    font-family: 'Rakkas';
+font-style: normal;
+font-weight: 50;
+font-size: 20px;
+line-height: 30px;
+}
+
+.axes{
+   position: absolute;
+width: 150px;
+height: 30px;
+left: 1000px;
+top: 25px;
+background: #EFAD10;
+border-radius: 20px;
+text-align: center;
+}
+img{
+ position: absolute;
+width: 25Opx;
+height: 70px;
+left: 500px;
+top: 130px;
+}
+.bamako{
+border: 1px solid #000000;
+position: absolute;
+width: 150px;
+height: 30px;
+left: 580px;
+top: 240px;
+text-align: center;
+color: #EFAD10;
+}
+.bko{
+    position: absolute;
+width: 30px;
+height: 200px;
+left: 30px;
+top: 310px;
+background: #E5E5E5;
+border: 1px solid #000000;
+writing-mode: vertical-lr;
+transform: rotate(540deg);
+text-align: center;
+}
+
+
+.destination{
+    position: absolute;
+    width: 1120px;
+    height: 200px;
+    left: 80px;
+    top: 310px;
+    background: #E5E5E5;
+    text-align: center;
+    }
+    .jaune{
+        color: #EFAD10;
+    }
+    .bleu{
+        color: #020086;
+    }
+    .go{
+     border: 1px solid #000000;
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 590px;
+    top:550px;
+    text-align: center;
+    color: #EFAD10;
+    }
+
+
+
+    
+.bk{
+    position: absolute;
+width: 30px;
+height: 200px;
+left: 1200px;
+top: 615px;
+background: #E5E5E5;
+border: 1px solid #000000;
+writing-mode: vertical-lr;
+transform: rotate(00deg);
+text-align: center;
+}
+.allant{
+position: absolute;
+width: 1100px;
+height: 200px;
+left: 79px;
+top: 615px;
+background: #E5E5E5;
+text-align: center;
+}
+.aun{
+    color: #EFAD10;
+}
+.ble{
+    color: #020086;
+}
+.ad{
+border: 1px solid #000000;
+ position: absolute;
+width:200px;
+height: 30px;
+left: 575px;
+top: 843px; 
+text-align: center;
+color: #EFAD10;
+}
+.at{
+position: absolute;
+width: 30px;
+height: 200px;
+left: 23px;
+top: 900px;
+writing-mode: vertical-lr;
+transform: rotate(180deg);
+text-align: center;
+background: #E5E5E5;
+border: 1px solid #000000;
+}
+
+
+
+
+.autres{
+    position: absolute;
+   width: 1088px;
+   height: 200px;
+   left: 92px;
+   top: 900px;
+   background: #E5E5E5;
+   text-align: center;
+   }
+   .jo{
+       color: #EFAD10;
+   }
+   .be{
+       color: #020086;
+   }
+   
+   
+   .face img{
+       position: relative;
+       width: 70px;
+       height: 50px;
+       left: 2%;
+       top: 1055px; 
+   }
+   
+   .twi img{
+       position: relative;
+       width: 70px;
+       height: 50px;
+       left: -700%;
+       top: 1055px;
+   }
+  
+   .pls img{
+       position: relative;
+       width: 70px;
+       height: 50px;
+       left: -1400%;
+       top: 1055px;
+   }
+   
+   .pied{
+    position: absolute;
+   width: 1250px;
+   height: 350px;
+   left: 0px;
+   top: 1180px;
+   background: rgba(2, 0, 134, 0.6);
+   }
+  
+   .a{
+       position: relative;
+       color: #ffff;
+       left: 10px;
+       top: 1%;
+   }
+   .im img{
+       position: relative;
+       width: 70px;
+       height: 70px;
+       left: 0%;
+       top: 2px;    
+   }
+   .ima img{
+       position: relative;
+       width: 70px;
+       height: 70px;
+       left: -1570%;
+       top: 2%;   
+   }
+  
+   .imag img{
+       position: relative;
+       width: 70px;
+       height: 70px;
+       left: 0%;
+       top: -71%;   
+   }
+   .image img{
+       position: relative;
+       width: 70px;
+       height: 70px;
+       left: -1570%;
+       top: -71%;    
+   }
+ 
+   .bh{
+       position: relative;
+       width: 470px;
+       height: 300px;
+       left: 10px;
+       top: -95px;
+       color: #FFFFFF;  
+   }
+   .c{
+       position: relative;
+       width: 100px;
+       height: 100px;
+       left: 3%;
+       top: -175%; 
+   }
+ 
+   
+   .titre{
+       position: relative;
+       color: #ffff;
+       top: -140%;  
+       text-align: center;
+   }
+    
+    
+   .d img{
+   position: absolute;
+   width: 10%;
+   height: 30%;
+   left: 130px;
+   top: 240px;
+   
+   }
+   
+   .da{
+    position: absolute;
+   width: 100px;
+   height: 203px;
+   left: 280px;
+   top: 220px;   
+   }
+   .e img{
+       position: absolute;
+       width: 10%;
+       height: 30%;
+       left: 425px;
+       top: 240px;    
+   }
+   
+.ea{
+    position: absolute;
+width: 174px;
+height: 203px;
+left: 570px;
+top: 260px;  
+}
+
+
+.fff img{
+    position: absolute;
+    width: 132px;
+    height: 104px;
+    left: 720px;
+    top: 240px;  
+}
+
+.fa{
+    position: absolute;
+    width: 174px;
+    height: 203px;
+    left: 870px;
+    top: 267px;  
+}
+
+.h1{
+    
+    position: relative;
+    color: #020086;
+    text-align: right;
+    top: -205%; 
+
+}
+
+
+.name{
+    position: absolute;
+    width: 100px;
+    height: 16px;
+    left: 1100px;
+    top: 90px;
+    
+}
+
+.nom{
+    position: relative;
+    width: 100px;
+    height: 16px;
+    left: 1100px;
+    top: -630px;  
+}
+
+.imail{
+    position: absolute;
+    top: 160px;
+    left: 1100px;
+    width: 100px;
+    height: 16px;
+}
+
+.email{
+    position: relative;
+    width: 100px;
+    height: 16px;
+    left: 1100px;
+    top: -575px;    
+}
+
+.abon{
+position: absolute;
+width: 120px;
+height: 27px;
+left: 1080px;
+top: 250px;
+background: #020086;
+border-radius: 16px;
+}
+
+.je{
+text-align: center;
+color: #FFFFFF;
+position: absolute;
+top: 25%;
+left: 20%;
+}
+
+.nour{
+position: absolute;
+width: 1245px;
+height: 100px;
+left: 0px;
+top: 1555px;
+background: #EFAD10;
+}
+
+.yu{
+position: absolute;
+width: 594px;
+height: 44px;
+left: 83px;
+top: 41px;
+}
+
+.moh{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.fatou{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.sidi{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
